@@ -1,6 +1,5 @@
 # Mern Book Search
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
@@ -66,7 +65,7 @@ npm run develop
 
 ## Questions
 
-[Github](https://github.com/andedu15)
+[Andres Mejia](https://github.com/andedu15)
 
 
 ## License
