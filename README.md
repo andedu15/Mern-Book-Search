@@ -3,12 +3,12 @@
 
 ## Table of Contents
 
-- [Description](#Description)
-- [Installation](#Installation)
-- [Local Usage](#Local-Usage)
-- [Links](#Links)
-- [Questions](#Questions)
-- [License](#License)
+* [Description](#Description)
+* [Installation](#Installation)
+* [Local Usage](#Local-Usage)
+* [Links](#Links)
+* [Questions](#Questions)
+* [License](#License)
 
 ##
 
