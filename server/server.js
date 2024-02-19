@@ -1,5 +1,4 @@
 require("dotenv").config();
-const path = requerire("path");
 const express = require('express');
 
 // import ApolloServer
