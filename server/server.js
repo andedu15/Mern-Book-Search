@@ -1,4 +1,7 @@
+require("dotenv").config();
+const path = requerire("path");
 const express = require('express');
+
 // import ApolloServer
 const { ApolloServer } = require('apollo-server-express');
 const { authMiddleware } = require('./utils/auth');
